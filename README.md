@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jalal Omari
 
-I'm a **Software Engineer** with strong experience in **backend development**, **API design**, and **DevOps infrastructure**.  
+I'm a **Software Development Lead** with strong experience in **backend development**, **Frontend development**, **API design**, and **DevOps infrastructure**.  
 I build scalable, secure, and high-performance web applications using open-source technologies.
 
 ---
