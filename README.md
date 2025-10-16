@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jalal Omari
 
-I'm a **Software Development Lead** with strong experience in **backend development**, **Frontend development**, **API design**, and **DevOps infrastructure**.  
-I build scalable, secure, and high-performance web applications using open-source technologies.
+I'm a **Software Development Lead** with extensive experience in **backend systems**, **API development**, and **modern frontend frameworks**.  
+I specialize in building scalable, secure, and high-performance web applications using open-source technologies and cloud-based infrastructures.
 
 ---
 
@@ -10,23 +10,30 @@ I build scalable, secure, and high-performance web applications using open-sourc
 ### 🖥️ Backend Development
 - **LAMP Stack (Linux, Apache, MySQL, PHP)**
 - **Laravel** and **CodeIgniter**
-- **Python** (API & backend scripting)
+- **Python** and **C++** for backend and system-level development
 - RESTful **API** design & integration
-- **Web Services** and Database Architecture
+- **Web Services** and advanced database architecture
+
+### 🗄️ Databases
+- **MySQL**, **PostgreSQL**, **Microsoft SQL Server**
+- **Oracle Database**
+- **MongoDB** (NoSQL)
+- Database design, optimization, and indexing strategies
 
 ### 🎨 Frontend Development
+- **Vue.js**, **Tailwind CSS**
 - **HTML**, **CSS**, **JavaScript**
 - **Bootstrap** and **Livewire**
-- Responsive, user-friendly UI development
+- Responsive and interactive UI/UX development
 
 ### 🔍 Search & Caching
 - **Elasticsearch**, **Apache Solr**
-- **Redis** for caching and optimization
+- **Redis** for caching and performance optimization
 
 ### 🐧 DevOps & Infrastructure
 - **Linux** system administration
-- **Docker** and **Kubernetes** for container orchestration
-- Deployment automation & server management
+- **Docker** and **Kubernetes** for containerization and orchestration
+- CI/CD pipelines and automated deployment workflows
 
 ### 🧩 Version Control
 - **Git** and **SVN** (Subversion)
@@ -34,10 +41,12 @@ I build scalable, secure, and high-performance web applications using open-sourc
 ---
 
 ## 🚀 What I Do
-- Develop and maintain **full-stack web applications**  
-- Design and optimize **REST APIs** and **databases**  
-- Deploy scalable environments using **Docker** and **Kubernetes**  
-- Build **search** and **caching layers** for large-scale data systems  
+- Lead and mentor development teams in delivering **high-quality software solutions**
+- Design and implement **scalable backend architectures**
+- Develop and maintain **full-stack web applications**
+- Optimize **database performance** and **API reliability**
+- Deploy and manage containerized environments using **Docker** and **Kubernetes**
+- Build **modern frontends** with Vue.js and Tailwind CSS
 
 ---
 
@@ -47,4 +56,4 @@ I build scalable, secure, and high-performance web applications using open-sourc
 
 ---
 
-⭐️ *Always learning, always building.*
+⭐️ *Always learning, always buildin*
